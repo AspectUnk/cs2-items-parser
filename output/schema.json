@@ -2,7 +2,7 @@
 	{
 		"item_definition_id": 1,
 		"item_class": "weapon_deagle",
-		"paintkits": [
+		"paint_kits": [
 			"aq_deserteagle_kumichodragon",
 			"aa_vertigo",
 			"am_scales_bravo",
@@ -43,7 +43,7 @@
 	{
 		"item_definition_id": 2,
 		"item_class": "weapon_elite",
-		"paintkits": [
+		"paint_kits": [
 			"cu_dual_elites_rally",
 			"aq_dualberettas_cartel",
 			"cu_season_elites_bravo",
@@ -83,7 +83,7 @@
 	{
 		"item_definition_id": 3,
 		"item_class": "weapon_fiveseven",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ducts_green",
 			"cu_fiveseven_augmented",
 			"aq_oiled",
@@ -123,7 +123,7 @@
 	{
 		"item_definition_id": 4,
 		"item_class": "weapon_glock",
-		"paintkits": [
+		"paint_kits": [
 			"am_nuclear_skulls_green",
 			"aa_vertigo_blue",
 			"gs_glock18_award",
@@ -174,7 +174,7 @@
 	{
 		"item_definition_id": 7,
 		"item_class": "weapon_ak47",
-		"paintkits": [
+		"paint_kits": [
 			"hy_mesh_safetyorange",
 			"gs_ak47_supercharged",
 			"aq_oiled",
@@ -225,7 +225,7 @@
 	{
 		"item_definition_id": 8,
 		"item_class": "weapon_aug",
-		"paintkits": [
+		"paint_kits": [
 			"am_circuitboard_orange",
 			"sp_mesh_safetyblack",
 			"hy_feathers_aug",
@@ -268,7 +268,7 @@
 	{
 		"item_definition_id": 9,
 		"item_class": "weapon_awp",
-		"paintkits": [
+		"paint_kits": [
 			"hy_nuclear_skulls_redblue",
 			"cu_awp_mastery",
 			"am_lightning_awp",
@@ -313,7 +313,7 @@
 	{
 		"item_definition_id": 10,
 		"item_class": "weapon_famas",
-		"paintkits": [
+		"paint_kits": [
 			"aq_famas_contour",
 			"hy_doomkitty",
 			"hy_bluehex",
@@ -352,7 +352,7 @@
 	{
 		"item_definition_id": 11,
 		"item_class": "weapon_g3sg1",
-		"paintkits": [
+		"paint_kits": [
 			"hy_bluepolygon_bravo",
 			"sp_zebracam_blue",
 			"am_g3sg1_murky",
@@ -386,7 +386,7 @@
 	{
 		"item_definition_id": 13,
 		"item_class": "weapon_galilar",
-		"paintkits": [
+		"paint_kits": [
 			"hy_nuclear_skulls_aqua",
 			"hy_ddpat_orange",
 			"hy_crumple_bravo",
@@ -425,7 +425,7 @@
 	{
 		"item_definition_id": 14,
 		"item_class": "weapon_m249",
-		"paintkits": [
+		"paint_kits": [
 			"aq_obsidian",
 			"cu_m249_sektor",
 			"gs_m249_nebula_crusader",
@@ -452,7 +452,7 @@
 	{
 		"item_definition_id": 16,
 		"item_class": "weapon_m4a1",
-		"paintkits": [
+		"paint_kits": [
 			"am_circuitboard_silver",
 			"hy_red_hex",
 			"gs_m4a4_pioneer",
@@ -497,7 +497,7 @@
 	{
 		"item_definition_id": 17,
 		"item_class": "weapon_mac10",
-		"paintkits": [
+		"paint_kits": [
 			"gs_mac10_checker",
 			"am_mac10_electricity",
 			"aq_etched_mac10_bravo",
@@ -548,7 +548,7 @@
 	{
 		"item_definition_id": 19,
 		"item_class": "weapon_p90",
-		"paintkits": [
+		"paint_kits": [
 			"hy_blueprint_aqua",
 			"cu_catskulls_p90",
 			"cu_dragon_p90_bravo",
@@ -595,7 +595,7 @@
 	{
 		"item_definition_id": 23,
 		"item_class": "weapon_mp5sd",
-		"paintkits": [
+		"paint_kits": [
 			"am_circuitboard_aqua",
 			"sp_tape_short_rally",
 			"hy_bamboo_stmarc",
@@ -617,7 +617,7 @@
 	{
 		"item_definition_id": 24,
 		"item_class": "weapon_ump45",
-		"paintkits": [
+		"paint_kits": [
 			"hy_blueprint_bluered",
 			"hy_mottled_sand",
 			"sp_skull_diagram_bravo",
@@ -659,7 +659,7 @@
 	{
 		"item_definition_id": 25,
 		"item_class": "weapon_xm1014",
-		"paintkits": [
+		"paint_kits": [
 			"hy_snakeskin_red",
 			"cu_xm1014_caritas",
 			"aq_xm1014_sigla",
@@ -699,7 +699,7 @@
 	{
 		"item_definition_id": 26,
 		"item_class": "weapon_bizon",
-		"paintkits": [
+		"paint_kits": [
 			"hy_blueprint_white",
 			"so_red",
 			"cu_bizon_citizen",
@@ -738,7 +738,7 @@
 	{
 		"item_definition_id": 27,
 		"item_class": "weapon_mag7",
-		"paintkits": [
+		"paint_kits": [
 			"hy_nuclear_hotorange",
 			"aq_steel_inferno",
 			"gs_mag7_praetorian",
@@ -777,7 +777,7 @@
 	{
 		"item_definition_id": 28,
 		"item_class": "weapon_negev",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ducts_yellow",
 			"sp_negev_turq_terrain",
 			"cu_negev_titanstorm",
@@ -805,7 +805,7 @@
 	{
 		"item_definition_id": 29,
 		"item_class": "weapon_sawedoff",
-		"paintkits": [
+		"paint_kits": [
 			"aa_vertigo_red",
 			"hy_ddpat_orange",
 			"cu_sawedoff_octopump",
@@ -842,7 +842,7 @@
 	{
 		"item_definition_id": 30,
 		"item_class": "weapon_tec9",
-		"paintkits": [
+		"paint_kits": [
 			"gs_tec9_envoy",
 			"gs_tec9_jambiya",
 			"an_titanium30v",
@@ -886,7 +886,7 @@
 	{
 		"item_definition_id": 32,
 		"item_class": "weapon_hkp2000",
-		"paintkits": [
+		"paint_kits": [
 			"am_ossify_blue_p2000_bravo",
 			"hy_poly_camo",
 			"cu_p2000_ivory",
@@ -922,7 +922,7 @@
 	{
 		"item_definition_id": 33,
 		"item_class": "weapon_mp7",
-		"paintkits": [
+		"paint_kits": [
 			"am_circuitboard_green",
 			"aa_fade_mp7",
 			"sp_mp7_impire",
@@ -961,7 +961,7 @@
 	{
 		"item_definition_id": 34,
 		"item_class": "weapon_mp9",
-		"paintkits": [
+		"paint_kits": [
 			"hy_splatter3",
 			"aa_vertigo",
 			"am_thorny_rose_mp9",
@@ -1000,7 +1000,7 @@
 	{
 		"item_definition_id": 35,
 		"item_class": "weapon_nova",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ducts_grey",
 			"cu_nova_hyperbeast",
 			"hy_seaside_bravo",
@@ -1042,7 +1042,7 @@
 	{
 		"item_definition_id": 36,
 		"item_class": "weapon_p250",
-		"paintkits": [
+		"paint_kits": [
 			"hy_blueprint_red",
 			"hy_ducts_blue",
 			"gs_p250_checker",
@@ -1095,7 +1095,7 @@
 	{
 		"item_definition_id": 38,
 		"item_class": "weapon_scar20",
-		"paintkits": [
+		"paint_kits": [
 			"hy_webs_darker",
 			"cu_scar20_intervention",
 			"aq_scar20_leak",
@@ -1127,7 +1127,7 @@
 	{
 		"item_definition_id": 39,
 		"item_class": "weapon_sg556",
-		"paintkits": [
+		"paint_kits": [
 			"cu_sg553_rally",
 			"so_purple",
 			"sp_spray_waves_bravo",
@@ -1167,7 +1167,7 @@
 	{
 		"item_definition_id": 40,
 		"item_class": "weapon_ssg08",
-		"paintkits": [
+		"paint_kits": [
 			"gs_ssg08_checker",
 			"cu_ssg08_necropos",
 			"cu_shark",
@@ -1205,7 +1205,7 @@
 	{
 		"item_definition_id": 60,
 		"item_class": "weapon_m4a1_silencer",
-		"paintkits": [
+		"paint_kits": [
 			"gs_m4a1s_operator",
 			"am_zebra_dark",
 			"hy_ocean_bravo",
@@ -1245,7 +1245,7 @@
 	{
 		"item_definition_id": 61,
 		"item_class": "weapon_usp_silencer",
-		"paintkits": [
+		"paint_kits": [
 			"sp_mesh_safetyred",
 			"gs_usp_voltage",
 			"am_zebra_dark",
@@ -1286,7 +1286,7 @@
 	{
 		"item_definition_id": 63,
 		"item_class": "weapon_cz75a",
-		"paintkits": [
+		"paint_kits": [
 			"hy_webs",
 			"am_diamond_plate",
 			"am_fuschia",
@@ -1324,7 +1324,7 @@
 	{
 		"item_definition_id": 64,
 		"item_class": "weapon_revolver",
-		"paintkits": [
+		"paint_kits": [
 			"so_orange_accents3",
 			"hy_webs",
 			"aa_fade_revolver",
@@ -1351,7 +1351,7 @@
 	{
 		"item_definition_id": 500,
 		"item_class": "weapon_bayonet",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1391,7 +1391,7 @@
 	{
 		"item_definition_id": 503,
 		"item_class": "weapon_knife_css",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1409,7 +1409,7 @@
 	{
 		"item_definition_id": 505,
 		"item_class": "weapon_knife_flip",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1449,7 +1449,7 @@
 	{
 		"item_definition_id": 506,
 		"item_class": "weapon_knife_gut",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1489,7 +1489,7 @@
 	{
 		"item_definition_id": 507,
 		"item_class": "weapon_knife_karambit",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1529,7 +1529,7 @@
 	{
 		"item_definition_id": 508,
 		"item_class": "weapon_knife_m9_bayonet",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1569,7 +1569,7 @@
 	{
 		"item_definition_id": 509,
 		"item_class": "weapon_knife_tactical",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1609,7 +1609,7 @@
 	{
 		"item_definition_id": 512,
 		"item_class": "weapon_knife_falchion",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1649,7 +1649,7 @@
 	{
 		"item_definition_id": 514,
 		"item_class": "weapon_knife_survival_bowie",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1689,7 +1689,7 @@
 	{
 		"item_definition_id": 515,
 		"item_class": "weapon_knife_butterfly",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1729,7 +1729,7 @@
 	{
 		"item_definition_id": 516,
 		"item_class": "weapon_knife_push",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1769,7 +1769,7 @@
 	{
 		"item_definition_id": 517,
 		"item_class": "weapon_knife_cord",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1787,7 +1787,7 @@
 	{
 		"item_definition_id": 518,
 		"item_class": "weapon_knife_canis",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1805,7 +1805,7 @@
 	{
 		"item_definition_id": 519,
 		"item_class": "weapon_knife_ursus",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1835,7 +1835,7 @@
 	{
 		"item_definition_id": 520,
 		"item_class": "weapon_knife_gypsy_jackknife",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1865,7 +1865,7 @@
 	{
 		"item_definition_id": 521,
 		"item_class": "weapon_knife_outdoor",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1883,7 +1883,7 @@
 	{
 		"item_definition_id": 522,
 		"item_class": "weapon_knife_stiletto",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1913,7 +1913,7 @@
 	{
 		"item_definition_id": 523,
 		"item_class": "weapon_knife_widowmaker",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1943,7 +1943,7 @@
 	{
 		"item_definition_id": 525,
 		"item_class": "weapon_knife_skeleton",
-		"paintkits": [
+		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
 			"aa_fade",
@@ -1961,7 +1961,7 @@
 	{
 		"item_definition_id": 1209,
 		"item_class": "sticker",
-		"paintkits": [
+		"sticker_kits": [
 			"std_thirteen",
 			"std_aces_high",
 			"std_conquered",
@@ -7967,79 +7967,9 @@
 		]
 	},
 	{
-		"item_definition_id": 1314,
-		"item_class": "musickit",
-		"paintkits": [
-			"danielsadowski_01",
-			"noisia_01",
-			"robertallaire_01",
-			"seanmurray_01",
-			"feedme_01",
-			"dren_01",
-			"austinwintory_01",
-			"sasha_01",
-			"skog_01",
-			"midnightriders_01",
-			"danielsadowski_02",
-			"hotlinemiami_01",
-			"mattlange_01",
-			"mateomessina_01",
-			"damjanmravunac_01",
-			"proxy_01",
-			"kitheory_01",
-			"troelsfolmann_01",
-			"kellybailey_01",
-			"skog_02",
-			"danielsadowski_03",
-			"awolnation_01",
-			"mordfustang_01",
-			"michaelbross_01",
-			"ianhultquist_01",
-			"newbeatfund_01",
-			"beartooth_01",
-			"lenniemoore_01",
-			"darude_01",
-			"theverkkars_01",
-			"scarlxrd_01",
-			"amontobin_01",
-			"neckdeep_02",
-			"scarlxrd_02",
-			"bbnos_01",
-			"theverkkars_02",
-			"perfectworld_01",
-			"denzelcurry_01",
-			"beartooth_02",
-			"blitzkids_01",
-			"hundredth_01",
-			"neckdeep_01",
-			"roam_01",
-			"twinatlantic_01",
-			"skog_03",
-			"austinwintory_02",
-			"dren_02",
-			"danielsadowski_04",
-			"treeadams_benbromfield_01",
-			"timhuling_01",
-			"sammarshall_01",
-			"mattlevine_01",
-			"austinwintory_03",
-			"chipzel_01",
-			"freakydna_01",
-			"jesseharlin_01",
-			"laurashigihara_01",
-			"sarahschachner_01",
-			"3kliksphilip_01",
-			"hlb_01",
-			"juelz_01",
-			"knock2_01",
-			"meechydarko_01",
-			"sullivanking_01"
-		]
-	},
-	{
 		"item_definition_id": 1348,
 		"item_class": "spray",
-		"paintkits": [
+		"sticker_kits": [
 			"atlanta2017_team_astr_graffiti",
 			"atlanta2017_team_nv_graffiti",
 			"atlanta2017_team_faze_graffiti",
@@ -8236,7 +8166,7 @@
 	{
 		"item_definition_id": 4609,
 		"item_class": "patch",
-		"paintkits": [
+		"sticker_kits": [
 			"patch_payback",
 			"patch_bravo",
 			"patch_phoenix",
@@ -8354,7 +8284,7 @@
 	{
 		"item_definition_id": 4725,
 		"item_class": "studded_brokenfang_gloves",
-		"paintkits": [
+		"paint_kits": [
 			"operation10_metalic_green",
 			"operation10_poison_frog_black_yellow",
 			"operation10_floral",
@@ -8364,7 +8294,7 @@
 	{
 		"item_definition_id": 5027,
 		"item_class": "studded_bloodhound_gloves",
-		"paintkits": [
+		"paint_kits": [
 			"bloodhound_black_silver",
 			"bloodhound_snakeskin_brass",
 			"bloodhound_metallic",
@@ -8374,7 +8304,7 @@
 	{
 		"item_definition_id": 5030,
 		"item_class": "sporty_gloves",
-		"paintkits": [
+		"paint_kits": [
 			"sporty_light_blue",
 			"sporty_military",
 			"sporty_purple",
@@ -8392,7 +8322,7 @@
 	{
 		"item_definition_id": 5031,
 		"item_class": "slick_gloves",
-		"paintkits": [
+		"paint_kits": [
 			"slick_black",
 			"slick_military",
 			"slick_red",
@@ -8410,7 +8340,7 @@
 	{
 		"item_definition_id": 5032,
 		"item_class": "leather_handwraps",
-		"paintkits": [
+		"paint_kits": [
 			"handwrap_leathery",
 			"handwrap_camo_grey",
 			"handwrap_red_slaughter",
@@ -8428,7 +8358,7 @@
 	{
 		"item_definition_id": 5033,
 		"item_class": "motorcycle_gloves",
-		"paintkits": [
+		"paint_kits": [
 			"motorcycle_basic_black",
 			"motorcycle_mint_triangle",
 			"motorcycle_mono_boom",
@@ -8446,7 +8376,7 @@
 	{
 		"item_definition_id": 5034,
 		"item_class": "specialist_gloves",
-		"paintkits": [
+		"paint_kits": [
 			"specialist_ddpat_green_camo",
 			"specialist_kimono_diamonds_red",
 			"specialist_emerald_web",
@@ -8464,7 +8394,7 @@
 	{
 		"item_definition_id": 5035,
 		"item_class": "studded_hydra_gloves",
-		"paintkits": [
+		"paint_kits": [
 			"bloodhound_hydra_black_green",
 			"bloodhound_hydra_green_leather_mesh_brass",
 			"bloodhound_hydra_snakeskin_brass",

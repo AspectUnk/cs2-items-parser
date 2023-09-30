@@ -123,6 +123,28 @@ const save_readable = (path, json) => {
 
     await save_readable("output/paintkits.json", paint_kits);
 
+    const sticker_kits = _.flatten(items.sticker_kits.map(Object.entries))
+        .map(([id, obj]) => {
+            const item_name = obj.item_name?.replace(/^#/g, "")?.toLowerCase();
+            const description_string = obj.description_string?.replace(/^#/g, "")?.toLowerCase();
+
+            const item_name_en = lang_english[item_name];
+            const description_string_en = lang_english[description_string];
+
+            return {
+                id: parseInt(id),
+                name: obj.name,
+                item_name,
+                item_name_en,
+                item_name_ru: lang_russian[item_name] || item_name_en,
+                description_string,
+                description_string_en,
+                description_string_ru: lang_russian[item_name] || description_string,
+            };
+        });
+
+    await save_readable("output/sticker_kits.json", sticker_kits);
+
     // skins
     const loot_lists = _.flatten(_.flatten(items.client_loot_lists.map(Object.values))
         .map(Object.keys));
@@ -156,7 +178,7 @@ const save_readable = (path, json) => {
 
             return {
                 type: group[2],
-                paintkit: group[1],
+                kit: group[1],
             }
         })
         .filter(_.isObject);
@@ -164,14 +186,22 @@ const save_readable = (path, json) => {
     await save_readable("output/skins.json", skins);
 
     const schema = item_definitions
-        .map(item => ({
-            item_definition_id: item.id,
-            item_class: item.item_class,
-            paintkits: skins
+        .map(item => {
+            const kits = skins
                 .filter(skin => skin?.type == item?.item_class)
-                .map(skin => skin.paintkit),
-        }))
-        .filter(item => item.paintkits.length > 0)
+                .map(skin => skin.kit);
+
+            const item_paint_kits = kits.filter(kit => paint_kits.findIndex(paint => kit === paint.name) >= 0);
+            const item_sticker_kits = kits.filter(kit => sticker_kits.findIndex(sticker => kit === sticker.name) >= 0);
+
+            return {
+                item_definition_id: item.id,
+                item_class: item.item_class,
+                paint_kits: item_paint_kits.length > 0 ? item_paint_kits : undefined,
+                sticker_kits: item_sticker_kits.length > 0 ? item_sticker_kits : undefined,
+            };
+        })
+        .filter(item => item?.paint_kits?.length > 0 || item?.sticker_kits?.length > 0)
         .sort((a, b) => a.item_definition_id - b.item_definition_id);
 
     await save_readable("output/schema.json", schema);
