@@ -139,7 +139,7 @@ const save_readable = (path, json) => {
                 item_name_ru: lang_russian[item_name] || item_name_en,
                 description_string,
                 description_string_en,
-                description_string_ru: lang_russian[item_name] || description_string,
+                description_string_ru: lang_russian[description_string] || description_string_en,
             };
         });
 
