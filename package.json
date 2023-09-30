@@ -6,13 +6,12 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "AspectUnk <https://github.com/AspectUnk>",
+  "author": "AspectUnk (https://github.com/AspectUnk)",
   "license": "Apache-2.0",
   "dependencies": {
     "lodash": "^4.17.21",
     "vdf-parser": "^1.2.1"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AspectUnk/cs2-items-parser.git"
