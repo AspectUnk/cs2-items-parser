@@ -1,0 +1,36 @@
+{
+  "name": "cs2-items-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "AspectUnk <https://github.com/AspectUnk>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "vdf-parser": "^1.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AspectUnk/cs2-items-parser.git"
+  },
+  "keywords": [
+    "cs2",
+    "csgo",
+    "cs",
+    "parser",
+    "items",
+    "js",
+    "steam",
+    "s2",
+    "source",
+    "source2"
+  ],
+  "bugs": {
+    "url": "https://github.com/AspectUnk/cs2-items-parser/issues"
+  },
+  "homepage": "https://github.com/AspectUnk/cs2-items-parser#readme"
+}
