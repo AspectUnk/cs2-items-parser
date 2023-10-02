@@ -1,4 +1,5 @@
 const fs = require("fs/promises");
+const path = require("path");
 const VDF = require("vdf-parser");
 const _ = require("lodash");
 
@@ -18,6 +19,19 @@ const load_lang = async (path) => {
 
 const save_readable = (path, json) => {
     return fs.writeFile(path, JSON.stringify(json, null, "\t"));
+};
+
+const copy_images = async (files) => {
+    for (const file of files) {
+        if (!file)
+            continue;
+
+        try {
+            const output = `output/images/${file.replace(/(_medium)*_large$/gi, "")}.png`;
+            await fs.mkdir(path.dirname(output), { recursive: true });
+            await fs.copyFile(`input/images/${file}_png.png`, output);
+        } catch { }
+    }
 };
 
 (async () => {
@@ -62,6 +76,7 @@ const save_readable = (path, json) => {
                 item_desc_en,
                 item_desc_ru: lang_russian[item_desc] || item_desc_en,
                 prefab: obj?.prefab,
+                image: obj?.image_inventory,
                 max_stickers: stickers ? Object.keys(stickers).length : undefined,
                 used_by_classes: used_by_classes ? {
                     ct: used_by_classes?.["counter-terrorists"] == 1,
@@ -69,7 +84,7 @@ const save_readable = (path, json) => {
                 } : undefined,
             };
         })
-        .filter(d => d);
+        .filter(d => d && d?.item_name_en);
 
     await save_readable("output/item_definitions.json", item_definitions);
 
@@ -134,6 +149,7 @@ const save_readable = (path, json) => {
             return {
                 id: parseInt(id),
                 name: obj.name,
+                image: obj?.sticker_material,
                 item_name,
                 item_name_en,
                 item_name_ru: lang_russian[item_name] || item_name_en,
@@ -143,6 +159,7 @@ const save_readable = (path, json) => {
             };
         });
 
+    await copy_images(sticker_kits.filter(i => i?.image).map(i => `econ/stickers/${i?.image}_large`));
     await save_readable("output/sticker_kits.json", sticker_kits);
 
     // skins
@@ -154,9 +171,10 @@ const save_readable = (path, json) => {
         .map(Object.keys));
 
     // knife from icons
-    const icons = Object.values(items.alternate_icons2.weapon_icons)
+    const icons = Object.values(items.alternate_icons2.weapon_icons).map(i => i.icon_path);
+    const knife_icons = icons
         .map(i => {
-            const str = i.icon_path.replace(/_(light|medium|heavy)$/gi, "").split("/").pop();
+            const str = i.replace(/_(light|medium|heavy)$/gi, "").split("/").pop();
             if (!str)
                 return null;
 
@@ -170,7 +188,7 @@ const save_readable = (path, json) => {
             return `[${str.replace(`${item_class}_`, "")}]${item_class}`;
         });
 
-    const skins = _.union(loot_lists, item_sets, icons)
+    const skins = _.union(loot_lists, item_sets, knife_icons)
         .map(data => {
             const group = /\[(.*)\](.*)/.exec(data);
             if (!group)
@@ -183,9 +201,18 @@ const save_readable = (path, json) => {
         })
         .filter(_.isObject);
 
+    const skins_images = skins
+        .map(skin => {
+            const re = new RegExp(`${skin.type}_${skin.kit}_medium$`);
+            return `${icons.find(i => re.test(i))}_large`;
+        })
+        .filter(s => s);
+
+    await copy_images(skins_images);
     await save_readable("output/skins.json", skins);
 
     const schema = item_definitions
+        .filter(item => item.item_name_en)
         .map(item => {
             const kits = skins
                 .filter(skin => skin?.type == item?.item_class)
@@ -197,12 +224,14 @@ const save_readable = (path, json) => {
             return {
                 item_definition_id: item.id,
                 item_class: item.item_class,
+                image: item?.image,
                 paint_kits: item_paint_kits.length > 0 ? item_paint_kits : undefined,
                 sticker_kits: item_sticker_kits.length > 0 ? item_sticker_kits : undefined,
             };
         })
-        .filter(item => item?.paint_kits?.length > 0 || item?.sticker_kits?.length > 0)
+        .filter(item => item?.paint_kits?.length > 0 || item?.sticker_kits?.length > 0 || item.item_class.startsWith("customplayer"))
         .sort((a, b) => a.item_definition_id - b.item_definition_id);
 
+    await copy_images(schema.map(i => i?.image));
     await save_readable("output/schema.json", schema);
 })();

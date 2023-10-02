@@ -1351,6 +1351,7 @@
 	{
 		"item_definition_id": 500,
 		"item_class": "weapon_bayonet",
+		"image": "econ/weapons/base_weapons/weapon_bayonet",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1391,6 +1392,7 @@
 	{
 		"item_definition_id": 503,
 		"item_class": "weapon_knife_css",
+		"image": "econ/weapons/base_weapons/weapon_knife_css",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1409,6 +1411,7 @@
 	{
 		"item_definition_id": 505,
 		"item_class": "weapon_knife_flip",
+		"image": "econ/weapons/base_weapons/weapon_knife_flip",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1449,6 +1452,7 @@
 	{
 		"item_definition_id": 506,
 		"item_class": "weapon_knife_gut",
+		"image": "econ/weapons/base_weapons/weapon_knife_gut",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1489,6 +1493,7 @@
 	{
 		"item_definition_id": 507,
 		"item_class": "weapon_knife_karambit",
+		"image": "econ/weapons/base_weapons/weapon_knife_karambit",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1529,6 +1534,7 @@
 	{
 		"item_definition_id": 508,
 		"item_class": "weapon_knife_m9_bayonet",
+		"image": "econ/weapons/base_weapons/weapon_knife_m9_bayonet",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1569,6 +1575,7 @@
 	{
 		"item_definition_id": 509,
 		"item_class": "weapon_knife_tactical",
+		"image": "econ/weapons/base_weapons/weapon_knife_tactical",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1609,6 +1616,7 @@
 	{
 		"item_definition_id": 512,
 		"item_class": "weapon_knife_falchion",
+		"image": "econ/weapons/base_weapons/weapon_knife_falchion",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1649,6 +1657,7 @@
 	{
 		"item_definition_id": 514,
 		"item_class": "weapon_knife_survival_bowie",
+		"image": "econ/weapons/base_weapons/weapon_knife_survival_bowie",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1689,6 +1698,7 @@
 	{
 		"item_definition_id": 515,
 		"item_class": "weapon_knife_butterfly",
+		"image": "econ/weapons/base_weapons/weapon_knife_butterfly",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1729,6 +1739,7 @@
 	{
 		"item_definition_id": 516,
 		"item_class": "weapon_knife_push",
+		"image": "econ/weapons/base_weapons/weapon_knife_push",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1769,6 +1780,7 @@
 	{
 		"item_definition_id": 517,
 		"item_class": "weapon_knife_cord",
+		"image": "econ/weapons/base_weapons/weapon_knife_cord",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1787,6 +1799,7 @@
 	{
 		"item_definition_id": 518,
 		"item_class": "weapon_knife_canis",
+		"image": "econ/weapons/base_weapons/weapon_knife_canis",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1805,6 +1818,7 @@
 	{
 		"item_definition_id": 519,
 		"item_class": "weapon_knife_ursus",
+		"image": "econ/weapons/base_weapons/weapon_knife_ursus",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1835,6 +1849,7 @@
 	{
 		"item_definition_id": 520,
 		"item_class": "weapon_knife_gypsy_jackknife",
+		"image": "econ/weapons/base_weapons/weapon_knife_gypsy_jackknife",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1865,6 +1880,7 @@
 	{
 		"item_definition_id": 521,
 		"item_class": "weapon_knife_outdoor",
+		"image": "econ/weapons/base_weapons/weapon_knife_outdoor",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1883,6 +1899,7 @@
 	{
 		"item_definition_id": 522,
 		"item_class": "weapon_knife_stiletto",
+		"image": "econ/weapons/base_weapons/weapon_knife_stiletto",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1913,6 +1930,7 @@
 	{
 		"item_definition_id": 523,
 		"item_class": "weapon_knife_widowmaker",
+		"image": "econ/weapons/base_weapons/weapon_knife_widowmaker",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -1943,6 +1961,7 @@
 	{
 		"item_definition_id": 525,
 		"item_class": "weapon_knife_skeleton",
+		"image": "econ/weapons/base_weapons/weapon_knife_skeleton",
 		"paint_kits": [
 			"hy_ddpat",
 			"hy_webs",
@@ -8282,6 +8301,56 @@
 		]
 	},
 	{
+		"item_definition_id": 4613,
+		"item_class": "customplayer_tm_professional_varf5",
+		"image": "econ/characters/customplayer_tm_professional_varf5"
+	},
+	{
+		"item_definition_id": 4619,
+		"item_class": "customplayer_ctm_st6_variantj",
+		"image": "econ/characters/customplayer_ctm_st6_variantj"
+	},
+	{
+		"item_definition_id": 4680,
+		"item_class": "customplayer_ctm_st6_variantl",
+		"image": "econ/characters/customplayer_ctm_st6_variantl"
+	},
+	{
+		"item_definition_id": 4711,
+		"item_class": "customplayer_ctm_swat_variante",
+		"image": "econ/characters/customplayer_ctm_swat_variante"
+	},
+	{
+		"item_definition_id": 4712,
+		"item_class": "customplayer_ctm_swat_variantf",
+		"image": "econ/characters/customplayer_ctm_swat_variantf"
+	},
+	{
+		"item_definition_id": 4713,
+		"item_class": "customplayer_ctm_swat_variantg",
+		"image": "econ/characters/customplayer_ctm_swat_variantg"
+	},
+	{
+		"item_definition_id": 4714,
+		"item_class": "customplayer_ctm_swat_varianth",
+		"image": "econ/characters/customplayer_ctm_swat_varianth"
+	},
+	{
+		"item_definition_id": 4715,
+		"item_class": "customplayer_ctm_swat_varianti",
+		"image": "econ/characters/customplayer_ctm_swat_varianti"
+	},
+	{
+		"item_definition_id": 4716,
+		"item_class": "customplayer_ctm_swat_variantj",
+		"image": "econ/characters/customplayer_ctm_swat_variantj"
+	},
+	{
+		"item_definition_id": 4718,
+		"item_class": "customplayer_tm_balkan_variantk",
+		"image": "econ/characters/customplayer_tm_balkan_variantk"
+	},
+	{
 		"item_definition_id": 4725,
 		"item_class": "studded_brokenfang_gloves",
 		"paint_kits": [
@@ -8290,6 +8359,136 @@
 			"operation10_floral",
 			"operation10_snakeskin_black"
 		]
+	},
+	{
+		"item_definition_id": 4726,
+		"item_class": "customplayer_tm_professional_varf",
+		"image": "econ/characters/customplayer_tm_professional_varf"
+	},
+	{
+		"item_definition_id": 4727,
+		"item_class": "customplayer_tm_professional_varg",
+		"image": "econ/characters/customplayer_tm_professional_varg"
+	},
+	{
+		"item_definition_id": 4728,
+		"item_class": "customplayer_tm_professional_varh",
+		"image": "econ/characters/customplayer_tm_professional_varh"
+	},
+	{
+		"item_definition_id": 4730,
+		"item_class": "customplayer_tm_professional_varj",
+		"image": "econ/characters/customplayer_tm_professional_varj"
+	},
+	{
+		"item_definition_id": 4732,
+		"item_class": "customplayer_tm_professional_vari",
+		"image": "econ/characters/customplayer_tm_professional_vari"
+	},
+	{
+		"item_definition_id": 4733,
+		"item_class": "customplayer_tm_professional_varf1",
+		"image": "econ/characters/customplayer_tm_professional_varf1"
+	},
+	{
+		"item_definition_id": 4734,
+		"item_class": "customplayer_tm_professional_varf2",
+		"image": "econ/characters/customplayer_tm_professional_varf2"
+	},
+	{
+		"item_definition_id": 4735,
+		"item_class": "customplayer_tm_professional_varf3",
+		"image": "econ/characters/customplayer_tm_professional_varf3"
+	},
+	{
+		"item_definition_id": 4736,
+		"item_class": "customplayer_tm_professional_varf4",
+		"image": "econ/characters/customplayer_tm_professional_varf4"
+	},
+	{
+		"item_definition_id": 4749,
+		"item_class": "customplayer_ctm_gendarmerie_varianta",
+		"image": "econ/characters/customplayer_ctm_gendarmerie_varianta"
+	},
+	{
+		"item_definition_id": 4750,
+		"item_class": "customplayer_ctm_gendarmerie_variantb",
+		"image": "econ/characters/customplayer_ctm_gendarmerie_variantb"
+	},
+	{
+		"item_definition_id": 4751,
+		"item_class": "customplayer_ctm_gendarmerie_variantc",
+		"image": "econ/characters/customplayer_ctm_gendarmerie_variantc"
+	},
+	{
+		"item_definition_id": 4752,
+		"item_class": "customplayer_ctm_gendarmerie_variantd",
+		"image": "econ/characters/customplayer_ctm_gendarmerie_variantd"
+	},
+	{
+		"item_definition_id": 4753,
+		"item_class": "customplayer_ctm_gendarmerie_variante",
+		"image": "econ/characters/customplayer_ctm_gendarmerie_variante"
+	},
+	{
+		"item_definition_id": 4756,
+		"item_class": "customplayer_ctm_swat_variantk",
+		"image": "econ/characters/customplayer_ctm_swat_variantk"
+	},
+	{
+		"item_definition_id": 4757,
+		"item_class": "customplayer_ctm_diver_varianta",
+		"image": "econ/characters/customplayer_ctm_diver_varianta"
+	},
+	{
+		"item_definition_id": 4771,
+		"item_class": "customplayer_ctm_diver_variantb",
+		"image": "econ/characters/customplayer_ctm_diver_variantb"
+	},
+	{
+		"item_definition_id": 4772,
+		"item_class": "customplayer_ctm_diver_variantc",
+		"image": "econ/characters/customplayer_ctm_diver_variantc"
+	},
+	{
+		"item_definition_id": 4773,
+		"item_class": "customplayer_tm_jungle_raider_varianta",
+		"image": "econ/characters/customplayer_tm_jungle_raider_varianta"
+	},
+	{
+		"item_definition_id": 4774,
+		"item_class": "customplayer_tm_jungle_raider_variantb",
+		"image": "econ/characters/customplayer_tm_jungle_raider_variantb"
+	},
+	{
+		"item_definition_id": 4775,
+		"item_class": "customplayer_tm_jungle_raider_variantc",
+		"image": "econ/characters/customplayer_tm_jungle_raider_variantc"
+	},
+	{
+		"item_definition_id": 4776,
+		"item_class": "customplayer_tm_jungle_raider_variantd",
+		"image": "econ/characters/customplayer_tm_jungle_raider_variantd"
+	},
+	{
+		"item_definition_id": 4777,
+		"item_class": "customplayer_tm_jungle_raider_variante",
+		"image": "econ/characters/customplayer_tm_jungle_raider_variante"
+	},
+	{
+		"item_definition_id": 4778,
+		"item_class": "customplayer_tm_jungle_raider_variantf",
+		"image": "econ/characters/customplayer_tm_jungle_raider_variantf"
+	},
+	{
+		"item_definition_id": 4780,
+		"item_class": "customplayer_tm_jungle_raider_variantb2",
+		"image": "econ/characters/customplayer_tm_jungle_raider_variantb2"
+	},
+	{
+		"item_definition_id": 4781,
+		"item_class": "customplayer_tm_jungle_raider_variantf2",
+		"image": "econ/characters/customplayer_tm_jungle_raider_variantf2"
 	},
 	{
 		"item_definition_id": 5027,
@@ -8400,5 +8599,150 @@
 			"bloodhound_hydra_snakeskin_brass",
 			"bloodhound_hydra_case_hardened"
 		]
+	},
+	{
+		"item_definition_id": 5036,
+		"item_class": "customplayer_t_map_based",
+		"image": "econ/characters/customplayer_tm_phoenix"
+	},
+	{
+		"item_definition_id": 5037,
+		"item_class": "customplayer_ct_map_based",
+		"image": "econ/characters/customplayer_ctm_sas"
+	},
+	{
+		"item_definition_id": 5105,
+		"item_class": "customplayer_tm_leet_variantg",
+		"image": "econ/characters/customplayer_tm_leet_variantg"
+	},
+	{
+		"item_definition_id": 5106,
+		"item_class": "customplayer_tm_leet_varianth",
+		"image": "econ/characters/customplayer_tm_leet_varianth"
+	},
+	{
+		"item_definition_id": 5107,
+		"item_class": "customplayer_tm_leet_varianti",
+		"image": "econ/characters/customplayer_tm_leet_varianti"
+	},
+	{
+		"item_definition_id": 5108,
+		"item_class": "customplayer_tm_leet_variantf",
+		"image": "econ/characters/customplayer_tm_leet_variantf"
+	},
+	{
+		"item_definition_id": 5109,
+		"item_class": "customplayer_tm_leet_variantj",
+		"image": "econ/characters/customplayer_tm_leet_variantj"
+	},
+	{
+		"item_definition_id": 5205,
+		"item_class": "customplayer_tm_phoenix_varianth",
+		"image": "econ/characters/customplayer_tm_phoenix_varianth"
+	},
+	{
+		"item_definition_id": 5206,
+		"item_class": "customplayer_tm_phoenix_variantf",
+		"image": "econ/characters/customplayer_tm_phoenix_variantf"
+	},
+	{
+		"item_definition_id": 5207,
+		"item_class": "customplayer_tm_phoenix_variantg",
+		"image": "econ/characters/customplayer_tm_phoenix_variantg"
+	},
+	{
+		"item_definition_id": 5208,
+		"item_class": "customplayer_tm_phoenix_varianti",
+		"image": "econ/characters/customplayer_tm_phoenix_varianti"
+	},
+	{
+		"item_definition_id": 5305,
+		"item_class": "customplayer_ctm_fbi_variantf",
+		"image": "econ/characters/customplayer_ctm_fbi_variantf"
+	},
+	{
+		"item_definition_id": 5306,
+		"item_class": "customplayer_ctm_fbi_variantg",
+		"image": "econ/characters/customplayer_ctm_fbi_variantg"
+	},
+	{
+		"item_definition_id": 5307,
+		"item_class": "customplayer_ctm_fbi_varianth",
+		"image": "econ/characters/customplayer_ctm_fbi_varianth"
+	},
+	{
+		"item_definition_id": 5308,
+		"item_class": "customplayer_ctm_fbi_variantb",
+		"image": "econ/characters/customplayer_ctm_fbi_variantb"
+	},
+	{
+		"item_definition_id": 5400,
+		"item_class": "customplayer_ctm_st6_variantk",
+		"image": "econ/characters/customplayer_ctm_st6_variantk"
+	},
+	{
+		"item_definition_id": 5401,
+		"item_class": "customplayer_ctm_st6_variante",
+		"image": "econ/characters/customplayer_ctm_st6_variante"
+	},
+	{
+		"item_definition_id": 5402,
+		"item_class": "customplayer_ctm_st6_variantg",
+		"image": "econ/characters/customplayer_ctm_st6_variantg"
+	},
+	{
+		"item_definition_id": 5403,
+		"item_class": "customplayer_ctm_st6_variantm",
+		"image": "econ/characters/customplayer_ctm_st6_variantm"
+	},
+	{
+		"item_definition_id": 5404,
+		"item_class": "customplayer_ctm_st6_varianti",
+		"image": "econ/characters/customplayer_ctm_st6_varianti"
+	},
+	{
+		"item_definition_id": 5405,
+		"item_class": "customplayer_ctm_st6_variantn",
+		"image": "econ/characters/customplayer_ctm_st6_variantn"
+	},
+	{
+		"item_definition_id": 5500,
+		"item_class": "customplayer_tm_balkan_variantf",
+		"image": "econ/characters/customplayer_tm_balkan_variantf"
+	},
+	{
+		"item_definition_id": 5501,
+		"item_class": "customplayer_tm_balkan_varianti",
+		"image": "econ/characters/customplayer_tm_balkan_varianti"
+	},
+	{
+		"item_definition_id": 5502,
+		"item_class": "customplayer_tm_balkan_variantg",
+		"image": "econ/characters/customplayer_tm_balkan_variantg"
+	},
+	{
+		"item_definition_id": 5503,
+		"item_class": "customplayer_tm_balkan_variantj",
+		"image": "econ/characters/customplayer_tm_balkan_variantj"
+	},
+	{
+		"item_definition_id": 5504,
+		"item_class": "customplayer_tm_balkan_varianth",
+		"image": "econ/characters/customplayer_tm_balkan_varianth"
+	},
+	{
+		"item_definition_id": 5505,
+		"item_class": "customplayer_tm_balkan_variantl",
+		"image": "econ/characters/customplayer_tm_balkan_variantl"
+	},
+	{
+		"item_definition_id": 5601,
+		"item_class": "customplayer_ctm_sas_variantf",
+		"image": "econ/characters/customplayer_ctm_sas_variantf"
+	},
+	{
+		"item_definition_id": 5602,
+		"item_class": "customplayer_ctm_sas_variantg",
+		"image": "econ/characters/customplayer_ctm_sas_variantg"
 	}
 ]

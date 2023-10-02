@@ -1,3 +1,5 @@
 /node_modules
+/input/images/econ
+/output/images/econ
 .DS_Store
 package-lock.json
