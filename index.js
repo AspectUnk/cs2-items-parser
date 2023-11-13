@@ -149,7 +149,7 @@ const copy_images = async (files) => {
             return {
                 id: parseInt(id),
                 name: obj.name,
-                image: obj?.sticker_material,
+                sticker_image: obj?.sticker_material,
                 item_name,
                 item_name_en,
                 item_name_ru: lang_russian[item_name] || item_name_en,
@@ -159,7 +159,7 @@ const copy_images = async (files) => {
             };
         });
 
-    await copy_images(sticker_kits.filter(i => i?.image).map(i => `econ/stickers/${i?.image}_large`));
+    await copy_images(sticker_kits.filter(i => i?.sticker_image).map(i => `econ/stickers/${i?.sticker_image}_large`));
     await save_readable("output/sticker_kits.json", sticker_kits);
 
     // skins
