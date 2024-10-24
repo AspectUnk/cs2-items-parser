@@ -67,10 +67,10 @@ const copy_images = async (files) => {
             item_desc_ru: lang_russian[item_desc.replace("#", '')] ?? item_desc_en,
             image,
             display_model
-        })
+        });
     }
 
-    await save_readable("output/keychain_definitions.json", keychain_definitions)
+    await save_readable("output/keychain_definitions.json", keychain_definitions);
 
     const item_definitions = _.flatten(items.items.map(Object.entries))
         .map(([id, obj]) => {
@@ -94,7 +94,7 @@ const copy_images = async (files) => {
 
             const used_by_classes = obj?.used_by_classes || prefab?.used_by_classes;
             const stickers = obj?.stickers || prefab?.stickers;
-
+            
             return {
                 id,
                 item_class: obj?.name,
