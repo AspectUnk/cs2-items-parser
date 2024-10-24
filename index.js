@@ -167,11 +167,6 @@ const copy_images = async (files) => {
     // keychains
     const keychain_definitions = Object.entries(items.keychain_definitions)
         .map(([id, obj]) => {
-            id = parseInt(id);
-
-            if (_.isNaN(id))
-                return null;
-
             const item_name = obj?.loc_name?.replace(/^#/g, "")?.toLowerCase();
             const item_desc = obj?.loc_description?.replace(/^#/g, "")?.toLowerCase();
 
@@ -179,7 +174,7 @@ const copy_images = async (files) => {
             const item_desc_en = lang_english[item_desc];
 
             return {
-                id,
+                id: parseInt(id),
                 name: obj?.name,
                 rarity: obj?.rarity,
                 item_name,
@@ -193,6 +188,7 @@ const copy_images = async (files) => {
                 pedestal_model: obj?.pedestal_display_model,
             };
         });
+        .filter(k => !_.isNaN(k.id));
 
     await copy_images(keychain_definitions.filter(i => i?.image).map(i => i?.image));
     await save_readable("output/keychain_definitions.json", keychain_definitions);
