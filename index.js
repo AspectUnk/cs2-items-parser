@@ -37,39 +37,11 @@ const copy_images = async (files) => {
 (async () => {
     const raw_items = await fs.readFile("input/items_game.txt", { encoding: "utf8" });
     const items = VDF.parse(raw_items)?.items_game;
-    const keychain = items.keychain_definitions;
 
     const lang_english = await load_lang("input/csgo_english.txt");
     const lang_russian = await load_lang("input/csgo_russian.txt");
 
     const prefabs = _.flatten(items.prefabs.map(Object.entries)).map(([prefab, obj]) => ({ ...obj, prefab }));
-    const keychain_definitions = [];
-    for (const key of Object.keys(keychain)) {
-        const obj = keychain[key];
-        const id = parseInt(key)
-        if (_.isNaN(id))
-            continue;
-        const item_name = obj.name;
-        const item_desc = obj.loc_description;
-        const item_name_en = lang_english['keychain_' + item_name];
-        const item_desc_en = lang_english[item_desc.replace("#", '')];
-
-        const image = obj.image_inventory;
-        const display_model = obj.pedestal_display_model;
-        keychain_definitions.push({
-            id: parseInt(key),
-            item_name,
-            item_name_en,
-            item_name_ru: lang_russian['keychain_' + item_name] ?? item_name_en,
-            item_desc,
-            item_desc_en,
-            item_desc_ru: lang_russian[item_desc.replace("#", '')] ?? item_desc_en,
-            image,
-            display_model
-        });
-    }
-
-    await save_readable("output/keychain_definitions.json", keychain_definitions);
 
     const item_definitions = _.flatten(items.items.map(Object.entries))
         .map(([id, obj]) => {
@@ -166,6 +138,7 @@ const copy_images = async (files) => {
 
     await save_readable("output/paintkits.json", paint_kits);
 
+    // stickers
     const sticker_kits = _.flatten(items.sticker_kits.map(Object.entries))
         .map(([id, obj]) => {
             const item_name = obj.item_name?.replace(/^#/g, "")?.toLowerCase();
@@ -177,18 +150,52 @@ const copy_images = async (files) => {
             return {
                 id: parseInt(id),
                 name: obj.name,
-                sticker_image: obj?.sticker_material,
+                rarity: obj?.rarity,
                 item_name,
                 item_name_en,
                 item_name_ru: lang_russian[item_name] || item_name_en,
                 description_string,
                 description_string_en,
                 description_string_ru: lang_russian[description_string] || description_string_en,
+                sticker_image: obj?.sticker_material ? `econ/stickers/${obj.sticker_material}` : undefined,
             };
         });
 
-    await copy_images(sticker_kits.filter(i => i?.sticker_image).map(i => `econ/stickers/${i?.sticker_image}_large`));
+    await copy_images(sticker_kits.filter(i => i?.sticker_image).map(i => `${i}_large`));
     await save_readable("output/sticker_kits.json", sticker_kits);
+
+    // keychains
+    const keychain_definitions = Object.entries(items.keychain_definitions)
+        .map(([id, obj]) => {
+            id = parseInt(id);
+
+            if (_.isNaN(id))
+                return null;
+
+            const item_name = obj?.loc_name?.replace(/^#/g, "")?.toLowerCase();
+            const item_desc = obj?.loc_description?.replace(/^#/g, "")?.toLowerCase();
+
+            const item_name_en = lang_english[item_name];
+            const item_desc_en = lang_english[item_desc];
+
+            return {
+                id,
+                name: obj?.name,
+                rarity: obj?.rarity,
+                item_name,
+                item_name: item_name,
+                item_name_en,
+                item_name_ru: lang_russian[item_name] || item_name_en,
+                item_desc: item_desc,
+                item_desc_en,
+                item_desc_ru: lang_russian[item_desc] || item_desc_en,
+                image: obj?.image_inventory,
+                pedestal_model: obj?.pedestal_display_model,
+            };
+        });
+
+    await copy_images(keychain_definitions.filter(i => i?.image).map(i => i?.image));
+    await save_readable("output/keychain_definitions.json", keychain_definitions);
 
     // skins
     const loot_lists = _.flatten(_.flatten(items.client_loot_lists.map(Object.values))
