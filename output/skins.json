@@ -17272,6 +17272,30 @@
 		"kit": "sullivanking_01"
 	},
 	{
+		"type": "musickit",
+		"kit": "dryden_01"
+	},
+	{
+		"type": "musickit",
+		"kit": "isoxo_01"
+	},
+	{
+		"type": "musickit",
+		"kit": "killscript_01"
+	},
+	{
+		"type": "musickit",
+		"kit": "knock2_02"
+	},
+	{
+		"type": "musickit",
+		"kit": "radcat_01"
+	},
+	{
+		"type": "musickit",
+		"kit": "twerl_01"
+	},
+	{
 		"type": "weapon_cz75a",
 		"kit": "am_czv2_mf"
 	},
@@ -29392,6 +29416,2406 @@
 		"kit": "paris2023_signature_zywoo_32_gold"
 	},
 	{
+		"type": "sticker",
+		"kit": "cph2024_team_navi"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_vp"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_g2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_faze"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_spir"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_vita"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_mouz"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_cplx"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_pgl"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_navi_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_vp_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_g2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_faze_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_spir_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_vita_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_mouz_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_cplx_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_pgl_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_navi_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_vp_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_g2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_faze_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_spir_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_vita_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_mouz_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_cplx_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_pgl_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_navi_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_vp_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_g2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_faze_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_spir_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_vita_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_mouz_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_cplx_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_pgl_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_c9"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_ence"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_furi"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_hero"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_eter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_apex"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_gl"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_saw"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_c9_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_ence_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_furi_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_hero_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_eter_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_apex_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_gl_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_saw_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_c9_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_ence_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_furi_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_hero_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_eter_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_apex_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_gl_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_saw_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_c9_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_ence_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_furi_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_hero_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_eter_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_apex_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_gl_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_saw_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_pain"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_imp"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_mngz"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_amka"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_ecst"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_koi"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_lgcy"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_lynn"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_pain_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_imp_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_mngz_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_amka_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_ecst_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_koi_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_lgcy_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_lynn_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_pain_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_imp_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_mngz_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_amka_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_ecst_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_koi_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_lgcy_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_lynn_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_pain_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_imp_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_mngz_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_amka_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_ecst_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_koi_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_lgcy_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_team_lynn_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jl_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_aleksib_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_b1t_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_im_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_w0nderful_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_fame_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_fl1t_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jame_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mir_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_n0rb3r7_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hooxi_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hunter_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_m0nesy_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nexa_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_niko_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_broky_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_frozen_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_karrigan_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_rain_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_ropz_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_chopper_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_donk_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_magixx_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_sh1ro_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_zont1x_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_apex_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_flamez_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mezii_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_spinx_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_zywoo_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_brollan_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jimpphat_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_siuhy_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_torzsi_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_xertion_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hallzerk_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_elige_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_floppy_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_grim_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jt_2"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jl_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_aleksib_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_b1t_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_im_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_w0nderful_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_fame_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_fl1t_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jame_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mir_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_n0rb3r7_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hooxi_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hunter_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_m0nesy_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nexa_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_niko_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_broky_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_frozen_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_karrigan_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_rain_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_ropz_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_chopper_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_donk_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_magixx_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_sh1ro_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_zont1x_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_apex_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_flamez_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mezii_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_spinx_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_zywoo_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_brollan_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jimpphat_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_siuhy_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_torzsi_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_xertion_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hallzerk_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_elige_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_floppy_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_grim_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jt_2_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jl_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_aleksib_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_b1t_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_im_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_w0nderful_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_fame_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_fl1t_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jame_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mir_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_n0rb3r7_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hooxi_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hunter_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_m0nesy_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nexa_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_niko_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_broky_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_frozen_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_karrigan_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_rain_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_ropz_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_chopper_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_donk_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_magixx_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_sh1ro_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_zont1x_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_apex_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_flamez_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mezii_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_spinx_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_zywoo_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_brollan_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jimpphat_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_siuhy_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_torzsi_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_xertion_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hallzerk_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_elige_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_floppy_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_grim_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jt_2_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jl_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_aleksib_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_b1t_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_im_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_w0nderful_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_fame_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_fl1t_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jame_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mir_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_n0rb3r7_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hooxi_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hunter_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_m0nesy_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nexa_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_niko_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_broky_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_frozen_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_karrigan_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_rain_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_ropz_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_chopper_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_donk_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_magixx_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_sh1ro_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_zont1x_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_apex_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_flamez_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mezii_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_spinx_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_zywoo_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_brollan_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jimpphat_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_siuhy_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_torzsi_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_xertion_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hallzerk_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_elige_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_floppy_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_grim_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jt_2_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_ax1le_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_boombl4_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_electronic_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hobbit_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_perfecto_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_goofy_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kylar_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_dycha_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_gla1ve_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hades_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_art_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_chelo_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_fallen_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kscerato_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_yuurih_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kyxsan_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nertz_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nicoodoz_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_sjuush_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_teses_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_calyx_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_maj3r_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_wicadia_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_woxic_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_xantares_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nawwk_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_cacanito_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jkaem_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_sense_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_styko_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_acor_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_isak_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_keoz_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_snax_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_volt_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_arrozdoce_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_ewjerkz_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mutiris_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_roman_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_story_1"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_ax1le_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_boombl4_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_electronic_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hobbit_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_perfecto_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_goofy_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kylar_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_dycha_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_gla1ve_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hades_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_art_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_chelo_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_fallen_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kscerato_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_yuurih_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kyxsan_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nertz_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nicoodoz_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_sjuush_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_teses_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_calyx_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_maj3r_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_wicadia_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_woxic_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_xantares_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nawwk_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_cacanito_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jkaem_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_sense_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_styko_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_acor_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_isak_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_keoz_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_snax_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_volt_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_arrozdoce_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_ewjerkz_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mutiris_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_roman_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_story_1_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_ax1le_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_boombl4_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_electronic_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hobbit_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_perfecto_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_goofy_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kylar_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_dycha_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_gla1ve_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hades_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_art_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_chelo_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_fallen_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kscerato_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_yuurih_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kyxsan_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nertz_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nicoodoz_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_sjuush_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_teses_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_calyx_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_maj3r_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_wicadia_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_woxic_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_xantares_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nawwk_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_cacanito_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jkaem_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_sense_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_styko_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_acor_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_isak_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_keoz_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_snax_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_volt_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_arrozdoce_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_ewjerkz_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mutiris_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_roman_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_story_1_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_ax1le_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_boombl4_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_electronic_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hobbit_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_perfecto_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_goofy_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kylar_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_dycha_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_gla1ve_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hades_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_art_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_chelo_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_fallen_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kscerato_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_yuurih_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kyxsan_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nertz_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nicoodoz_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_sjuush_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_teses_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_calyx_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_maj3r_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_wicadia_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_woxic_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_xantares_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nawwk_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_cacanito_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jkaem_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_sense_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_styko_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_acor_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_isak_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_keoz_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_snax_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_volt_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_arrozdoce_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_ewjerkz_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mutiris_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_roman_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_story_1_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_biguzera_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kauez_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_lux_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_n1ssim_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nqz_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_decenty_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_felps_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hen1_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_noway_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_vini_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_910_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_blitz_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mzinho_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_senzu_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_techno4k_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_forester_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_icy_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_krad_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nickelback_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_travis_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kraghen_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nodios_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_patti_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_queenix_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_salazar_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_adams_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_dav1g_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_just_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mopoz_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_stadodo_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_b4rtin_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_coldzera_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_dumau_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_latto_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nekiz_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_emiliaqaq_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jee_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_starry_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_westmelon_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_z4kr_4"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_biguzera_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kauez_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_lux_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_n1ssim_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nqz_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_decenty_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_felps_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hen1_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_noway_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_vini_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_910_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_blitz_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mzinho_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_senzu_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_techno4k_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_forester_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_icy_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_krad_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nickelback_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_travis_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kraghen_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nodios_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_patti_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_queenix_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_salazar_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_adams_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_dav1g_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_just_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mopoz_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_stadodo_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_b4rtin_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_coldzera_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_dumau_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_latto_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nekiz_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_emiliaqaq_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jee_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_starry_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_westmelon_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_z4kr_4_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_biguzera_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kauez_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_lux_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_n1ssim_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nqz_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_decenty_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_felps_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hen1_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_noway_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_vini_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_910_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_blitz_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mzinho_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_senzu_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_techno4k_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_forester_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_icy_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_krad_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nickelback_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_travis_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kraghen_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nodios_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_patti_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_queenix_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_salazar_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_adams_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_dav1g_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_just_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mopoz_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_stadodo_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_b4rtin_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_coldzera_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_dumau_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_latto_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nekiz_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_emiliaqaq_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jee_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_starry_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_westmelon_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_z4kr_4_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_biguzera_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kauez_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_lux_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_n1ssim_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nqz_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_decenty_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_felps_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_hen1_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_noway_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_vini_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_910_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_blitz_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mzinho_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_senzu_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_techno4k_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_forester_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_icy_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_krad_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nickelback_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_travis_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_kraghen_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nodios_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_patti_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_queenix_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_salazar_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_adams_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_dav1g_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_just_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_mopoz_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_stadodo_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_b4rtin_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_coldzera_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_dumau_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_latto_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_nekiz_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_emiliaqaq_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jee_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_starry_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_westmelon_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_z4kr_4_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jl_32"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_aleksib_32"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_b1t_32"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_im_32"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_w0nderful_32"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jl_32_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_aleksib_32_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_b1t_32_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_im_32_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_w0nderful_32_glitter"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jl_32_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_aleksib_32_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_b1t_32_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_im_32_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_w0nderful_32_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_jl_32_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_aleksib_32_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_b1t_32_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_im_32_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "cph2024_signature_w0nderful_32_gold"
+	},
+	{
 		"type": "weapon_fiveseven",
 		"kit": "cu_fiveseven_alpha_omega"
 	},
@@ -30026,6 +32450,790 @@
 	{
 		"type": "weapon_ak47",
 		"kit": "cu_ak_head_shot_holo"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_this_is_fine_chicken"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_retro_zeus"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_please_return"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_peek_a_boo"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_kickflip_47"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_easy_for_ricksaw"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_bum_a_smoke"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_angry_t"
+	},
+	{
+		"type": "sticker",
+		"kit": "glitter_lotus"
+	},
+	{
+		"type": "sticker",
+		"kit": "glitter_pushing_smokes"
+	},
+	{
+		"type": "sticker",
+		"kit": "holo_cedar_creek"
+	},
+	{
+		"type": "sticker",
+		"kit": "holo_lit"
+	},
+	{
+		"type": "sticker",
+		"kit": "holo_loving_eyes"
+	},
+	{
+		"type": "sticker",
+		"kit": "holo_try_hard"
+	},
+	{
+		"type": "sticker",
+		"kit": "foil_lost_in_smoke"
+	},
+	{
+		"type": "sticker",
+		"kit": "foil_on_eco"
+	},
+	{
+		"type": "sticker",
+		"kit": "foil_ouchie"
+	},
+	{
+		"type": "sticker",
+		"kit": "foil_sealed"
+	},
+	{
+		"type": "sticker",
+		"kit": "lenticular_dystopian_gaze"
+	},
+	{
+		"type": "sticker",
+		"kit": "lenticular_econometer"
+	},
+	{
+		"type": "sticker",
+		"kit": "lenticular_old_school"
+	},
+	{
+		"type": "weapon_elite",
+		"kit": "dual_berettas_lethal_grin"
+	},
+	{
+		"type": "weapon_mac10",
+		"kit": "mac10_illusion"
+	},
+	{
+		"type": "weapon_nova",
+		"kit": "nova_drakkar"
+	},
+	{
+		"type": "weapon_ssg08",
+		"kit": "ssg08_dezastre"
+	},
+	{
+		"type": "weapon_tec9",
+		"kit": "tec9_junkyard_engineering"
+	},
+	{
+		"type": "weapon_ump45",
+		"kit": "ump45_assembled_engine"
+	},
+	{
+		"type": "weapon_xm1014",
+		"kit": "xm1014_irezumi"
+	},
+	{
+		"type": "weapon_glock",
+		"kit": "glock_brick_mondrian"
+	},
+	{
+		"type": "weapon_m4a1",
+		"kit": "m4a4_snakebite"
+	},
+	{
+		"type": "weapon_fiveseven",
+		"kit": "fiveseven_hybrid"
+	},
+	{
+		"type": "weapon_mp7",
+		"kit": "mp7_just_smile"
+	},
+	{
+		"type": "weapon_sawedoff",
+		"kit": "sawedoff_gamer"
+	},
+	{
+		"type": "weapon_m4a1_silencer",
+		"kit": "m4a1s_black_lotus"
+	},
+	{
+		"type": "weapon_taser",
+		"kit": "zeus_thunder_god"
+	},
+	{
+		"type": "weapon_usp_silencer",
+		"kit": "usps_doggy"
+	},
+	{
+		"type": "weapon_awp",
+		"kit": "awp_tempered"
+	},
+	{
+		"type": "weapon_ak47",
+		"kit": "ak_porcelain"
+	},
+	{
+		"type": "weapon_usp_silencer",
+		"kit": "usp_field_snake"
+	},
+	{
+		"type": "weapon_deagle",
+		"kit": "deagle_calligraff"
+	},
+	{
+		"type": "weapon_mp5sd",
+		"kit": "mp5_statics_blue"
+	},
+	{
+		"type": "weapon_aug",
+		"kit": "aug_puffer"
+	},
+	{
+		"type": "weapon_m249",
+		"kit": "m249_hypnosis"
+	},
+	{
+		"type": "weapon_revolver",
+		"kit": "r8_roses_and_guns"
+	},
+	{
+		"type": "weapon_scar20",
+		"kit": "scar20_fury_topo"
+	},
+	{
+		"type": "weapon_m4a1",
+		"kit": "m4a4_fusion"
+	},
+	{
+		"type": "weapon_elite",
+		"kit": "dual_elite_hydro_strike"
+	},
+	{
+		"type": "weapon_mac10",
+		"kit": "mac10_ozaki"
+	},
+	{
+		"type": "weapon_p90",
+		"kit": "p90_randy_rush"
+	},
+	{
+		"type": "weapon_ssg08",
+		"kit": "ssg08_transit_white"
+	},
+	{
+		"type": "weapon_ak47",
+		"kit": "ak47_t_bus"
+	},
+	{
+		"type": "weapon_p250",
+		"kit": "p250_impact"
+	},
+	{
+		"type": "weapon_ump45",
+		"kit": "ump45_neo_noir"
+	},
+	{
+		"type": "weapon_glock",
+		"kit": "glock_chomper"
+	},
+	{
+		"type": "weapon_m4a1_silencer",
+		"kit": "m4a1s_vaporwave"
+	},
+	{
+		"type": "weapon_m249",
+		"kit": "ht_peaks_rainbow"
+	},
+	{
+		"type": "weapon_ssg08",
+		"kit": "ht_swirl_ssg08"
+	},
+	{
+		"type": "weapon_famas",
+		"kit": "ht_splash_famas"
+	},
+	{
+		"type": "weapon_mp7",
+		"kit": "gs_constellation_dark_mp7"
+	},
+	{
+		"type": "weapon_galilar",
+		"kit": "cu_poly_green_galil"
+	},
+	{
+		"type": "weapon_hkp2000",
+		"kit": "ht_facet_p2000"
+	},
+	{
+		"type": "weapon_scar20",
+		"kit": "cu_chevron_scar20"
+	},
+	{
+		"type": "weapon_sg556",
+		"kit": "gs_happy_red_sg556"
+	},
+	{
+		"type": "weapon_ak47",
+		"kit": "cu_graphic_overlay_ak47"
+	},
+	{
+		"type": "weapon_xm1014",
+		"kit": "ht_shapes_xm1014"
+	},
+	{
+		"type": "weapon_cz75a",
+		"kit": "cu_abstract_white_cz"
+	},
+	{
+		"type": "weapon_p90",
+		"kit": "cu_poly_violet_p90"
+	},
+	{
+		"type": "weapon_m4a1",
+		"kit": "soo_polysoup_m4a4"
+	},
+	{
+		"type": "weapon_deagle",
+		"kit": "cu_glitter_deagle"
+	},
+	{
+		"type": "weapon_aug",
+		"kit": "gs_lilpig_aug"
+	},
+	{
+		"type": "weapon_awp",
+		"kit": "gs_independe_awp"
+	},
+	{
+		"type": "weapon_fiveseven",
+		"kit": "hy_overpass_paintover_teal"
+	},
+	{
+		"type": "weapon_p90",
+		"kit": "sp_overpass_doodle_plum"
+	},
+	{
+		"type": "weapon_mp5sd",
+		"kit": "sp_overpass_paint_pen_neon"
+	},
+	{
+		"type": "weapon_m4a1_silencer",
+		"kit": "hy_overpass_doodle_m4a1s"
+	},
+	{
+		"type": "weapon_deagle",
+		"kit": "cu_overpass_aqua_deagle"
+	},
+	{
+		"type": "weapon_negev",
+		"kit": "cu_overpass_graf_negev"
+	},
+	{
+		"type": "weapon_galilar",
+		"kit": "sp_overpass_paint_pen_metal"
+	},
+	{
+		"type": "weapon_mac10",
+		"kit": "cu_overpass_squeak_mac10"
+	},
+	{
+		"type": "weapon_nova",
+		"kit": "cu_overpass_wurst_nova"
+	},
+	{
+		"type": "weapon_glock",
+		"kit": "hy_overpass_tagged_teal"
+	},
+	{
+		"type": "weapon_elite",
+		"kit": "cu_overpass_baby_dualies"
+	},
+	{
+		"type": "weapon_xm1014",
+		"kit": "cu_overpass_monsters_xm"
+	},
+	{
+		"type": "weapon_aug",
+		"kit": "cu_overpass_graf_aug"
+	},
+	{
+		"type": "weapon_awp",
+		"kit": "cu_overpass_crakow_awp"
+	},
+	{
+		"type": "weapon_taser",
+		"kit": "cu_overpass_dragon_zeus"
+	},
+	{
+		"type": "weapon_ak47",
+		"kit": "cu_overpass_monster_ak47"
+	},
+	{
+		"type": "weapon_mp5sd",
+		"kit": "ht_blur_camo_mp5sd"
+	},
+	{
+		"type": "weapon_tec9",
+		"kit": "soch_tiger_stencil_tec9"
+	},
+	{
+		"type": "weapon_famas",
+		"kit": "gs_gamebred_famas"
+	},
+	{
+		"type": "weapon_ak47",
+		"kit": "ht_poly_camo_ak47"
+	},
+	{
+		"type": "weapon_bizon",
+		"kit": "sp_wax_rub_bizon"
+	},
+	{
+		"type": "weapon_mag7",
+		"kit": "soch_wildwood_mag7"
+	},
+	{
+		"type": "weapon_ssg08",
+		"kit": "gsch_zeno_ssg08"
+	},
+	{
+		"type": "weapon_p250",
+		"kit": "soch_hunter_blaze_p250"
+	},
+	{
+		"type": "weapon_nova",
+		"kit": "gs_ripple_nova"
+	},
+	{
+		"type": "weapon_usp_silencer",
+		"kit": "gsch_bright_camo_usp"
+	},
+	{
+		"type": "weapon_fiveseven",
+		"kit": "aq_case_hardened_fiveseven"
+	},
+	{
+		"type": "weapon_mp9",
+		"kit": "gs_arctic_mp9"
+	},
+	{
+		"type": "weapon_ump45",
+		"kit": "gsch_sport_ump45"
+	},
+	{
+		"type": "weapon_galilar",
+		"kit": "aq_titanium_rainbow_galilar"
+	},
+	{
+		"type": "weapon_glock",
+		"kit": "gsch_axia_glock"
+	},
+	{
+		"type": "weapon_m4a1_silencer",
+		"kit": "aa_fade_m4a1s"
+	},
+	{
+		"type": "weapon_deagle",
+		"kit": "aq_deagle_case_hardened_2"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_missinglink_ava"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_missinglink_sam_salty"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_missinglink_sam_catchup"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_missinglink_sas"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_missinglink_guerilla"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_missinglink_kev"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_missinglink_chicken"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_missinglink_banana"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_missinglink_cat"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_missinglink_catbeach"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_missinglink_bigfoot"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_missinglink_sam_toile"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_missinglink_monster"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_missinglink_sam_diamond"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_missinglink_sam_shape"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_missinglink_howl"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_missinglink_wurst"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_wpn_ak_base"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_wpn_usp_yarn"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_wpn_tec9_cap"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_wpn_awp_plastic"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_wpn_mac10_tile"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_wpn_ctknife_wood"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_wpn_m4a1s_comic"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_wpn_usp_jewel"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_wpn_ak_jelly"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_wpn_mac10_glitter"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_wpn_tec9_magma"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_wpn_awp_spoon"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_wpn_m4a1s_ss"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_wpn_tknife_crystal"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_wpn_ctknife_gold"
+	},
+	{
+		"type": "keychain",
+		"kit": "kc_wpn_tknife_gold"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_lightning_two"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_lightning_three"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_lightning_one"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_flames_two"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_flames"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_fire_one"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_fire_two"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_fire_three"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_explosion_two"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_explosion_three"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_explosion_one"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_explosion_four"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_water_one"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_water_two"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_water_three"
+	},
+	{
+		"type": "sticker",
+		"kit": "holo_rainbow_trail"
+	},
+	{
+		"type": "sticker",
+		"kit": "glitter_explosion_two"
+	},
+	{
+		"type": "sticker",
+		"kit": "glitter_explosion_three"
+	},
+	{
+		"type": "sticker",
+		"kit": "glitter_explosion_one"
+	},
+	{
+		"type": "sticker",
+		"kit": "glitter_explosion_four"
+	},
+	{
+		"type": "sticker",
+		"kit": "foil_lightning_two"
+	},
+	{
+		"type": "sticker",
+		"kit": "foil_lightning_three"
+	},
+	{
+		"type": "sticker",
+		"kit": "foil_lightning_one"
+	},
+	{
+		"type": "sticker",
+		"kit": "foil_fire_three"
+	},
+	{
+		"type": "sticker",
+		"kit": "lenticular_blood_one"
+	},
+	{
+		"type": "sticker",
+		"kit": "lenticular_blood_two"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_arm_flex"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_clown_nose"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_clown_wig"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_ct_left_hand"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_eye"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_googly_eye_small"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_male_anime_face"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_mouth"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_ribbon"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_shark_mouth"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_t_left_hand"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_tentacle"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_tongue"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_wings"
+	},
+	{
+		"type": "sticker",
+		"kit": "paper_winky_eyes"
+	},
+	{
+		"type": "sticker",
+		"kit": "glitter_kawaii_eyes"
+	},
+	{
+		"type": "sticker",
+		"kit": "glitter_tentacle"
+	},
+	{
+		"type": "sticker",
+		"kit": "holo_mouth"
+	},
+	{
+		"type": "sticker",
+		"kit": "holo_tongue"
+	},
+	{
+		"type": "sticker",
+		"kit": "lenticular_angry_eyes"
+	},
+	{
+		"type": "sticker",
+		"kit": "foil_mustache"
+	},
+	{
+		"type": "sticker",
+		"kit": "foil_sunglasses"
+	},
+	{
+		"type": "sticker",
+		"kit": "foil_mouth"
+	},
+	{
+		"type": "sticker",
+		"kit": "lenticular_cheeky_eyes"
+	},
+	{
+		"type": "sticker",
+		"kit": "lenticular_googly_eye"
+	},
+	{
+		"type": "musickit",
+		"kit": "mattlevine_02"
+	},
+	{
+		"type": "musickit",
+		"kit": "treeadams_01"
+	},
+	{
+		"type": "musickit",
+		"kit": "benbromfield_01"
+	},
+	{
+		"type": "musickit",
+		"kit": "timhuling_02"
+	},
+	{
+		"type": "musickit",
+		"kit": "dren_03"
+	},
+	{
+		"type": "musickit",
+		"kit": "sammarshall_02"
+	},
+	{
+		"type": "musickit",
+		"kit": "austinwintory_04"
+	},
+	{
+		"type": "musickit",
+		"kit": "danielsadowski_05"
 	},
 	{
 		"type": "weapon_elite",
@@ -32037,6 +35245,54 @@
 	},
 	{
 		"type": "weapon_knife_skeleton",
+		"kit": "sp_nightstripe"
+	},
+	{
+		"type": "weapon_knife_kukri",
+		"kit": "hy_ddpat"
+	},
+	{
+		"type": "weapon_knife_kukri",
+		"kit": "hy_webs"
+	},
+	{
+		"type": "weapon_knife_kukri",
+		"kit": "aa_fade"
+	},
+	{
+		"type": "weapon_knife_kukri",
+		"kit": "aq_blued"
+	},
+	{
+		"type": "weapon_knife_kukri",
+		"kit": "aq_forced"
+	},
+	{
+		"type": "weapon_knife_kukri",
+		"kit": "aq_oiled"
+	},
+	{
+		"type": "weapon_knife_kukri",
+		"kit": "am_zebra"
+	},
+	{
+		"type": "weapon_knife_kukri",
+		"kit": "sp_mesh_tan"
+	},
+	{
+		"type": "weapon_knife_kukri",
+		"kit": "hy_forest_boreal"
+	},
+	{
+		"type": "weapon_knife_kukri",
+		"kit": "sp_tape_urban"
+	},
+	{
+		"type": "weapon_knife_kukri",
+		"kit": "sp_dapple"
+	},
+	{
+		"type": "weapon_knife_kukri",
 		"kit": "sp_nightstripe"
 	},
 	{
