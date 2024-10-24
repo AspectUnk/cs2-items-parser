@@ -37,12 +37,11 @@ const copy_images = async (files) => {
 (async () => {
     const raw_items = await fs.readFile("input/items_game.txt", { encoding: "utf8" });
     const items = VDF.parse(raw_items)?.items_game;
-    const keychain = items.keychain_definitions
+    const keychain = items.keychain_definitions;
 
     const lang_english = await load_lang("input/csgo_english.txt");
     const lang_russian = await load_lang("input/csgo_russian.txt");
 
-    
     const prefabs = _.flatten(items.prefabs.map(Object.entries)).map(([prefab, obj]) => ({ ...obj, prefab }));
     const keychain_definitions = [];
     for (const key of Object.keys(keychain)) {
