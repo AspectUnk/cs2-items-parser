@@ -37,12 +37,41 @@ const copy_images = async (files) => {
 (async () => {
     const raw_items = await fs.readFile("input/items_game.txt", { encoding: "utf8" });
     const items = VDF.parse(raw_items)?.items_game;
+    const keychain = items.keychain_definitions
 
     const lang_english = await load_lang("input/csgo_english.txt");
     const lang_russian = await load_lang("input/csgo_russian.txt");
 
-    // item_definitions
+    
     const prefabs = _.flatten(items.prefabs.map(Object.entries)).map(([prefab, obj]) => ({ ...obj, prefab }));
+    const keychain_definitions = [];
+    for (const key of Object.keys(keychain)) {
+        const obj = keychain[key];
+        const id = parseInt(key)
+        if (_.isNaN(id))
+            continue;
+        const item_name = obj.name;
+        const item_desc = obj.loc_description;
+        const item_name_en = lang_english['keychain_' + item_name];
+        const item_desc_en = lang_english[item_desc.replace("#", '')];
+
+        const image = obj.image_inventory;
+        const display_model = obj.pedestal_display_model;
+        keychain_definitions.push({
+            id: parseInt(key),
+            item_name,
+            item_name_en,
+            item_name_ru: lang_russian['keychain_' + item_name] ?? item_name_en,
+            item_desc,
+            item_desc_en,
+            item_desc_ru: lang_russian[item_desc.replace("#", '')] ?? item_desc_en,
+            image,
+            display_model
+        })
+    }
+
+    await save_readable("output/keychain_definitions.json", keychain_definitions)
+
     const item_definitions = _.flatten(items.items.map(Object.entries))
         .map(([id, obj]) => {
             id = parseInt(id);
