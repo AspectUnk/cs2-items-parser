@@ -157,11 +157,12 @@ const copy_images = async (files) => {
                 description_string,
                 description_string_en,
                 description_string_ru: lang_russian[description_string] || description_string_en,
-                sticker_image: obj?.sticker_material ? `econ/stickers/${obj.sticker_material}` : undefined,
+                sticker_image: (obj?.sticker_material) ? `econ/stickers/${obj.sticker_material}` : undefined,
+                patch_image: (obj?.patch_material) ? `econ/patches/${obj.patch_material}` : undefined,
             };
         });
 
-    await copy_images(sticker_kits.filter(i => i?.sticker_image).map(i => `${i}_large`));
+    await copy_images(sticker_kits.filter(i => (i?.sticker_image || i?.patch_image)).map(i => (i?.sticker_image || i?.patch_image)));
     await save_readable("output/sticker_kits.json", sticker_kits);
 
     // keychains
@@ -187,7 +188,7 @@ const copy_images = async (files) => {
                 image: obj?.image_inventory,
                 pedestal_model: obj?.pedestal_display_model,
             };
-        });
+        })
         .filter(k => !_.isNaN(k.id));
 
     await copy_images(keychain_definitions.filter(i => i?.image).map(i => i?.image));
